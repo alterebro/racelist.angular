@@ -1,3 +1,0 @@
-# readme file
-
-Hello world
