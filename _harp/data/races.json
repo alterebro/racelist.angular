@@ -1,0 +1,675 @@
+[
+
+	{	
+		"title" 		: "10K Maraton Expo Zaragoza El Corte Ingles",
+		"location" 		: "Zaragoza",
+		"distance" 		: 10000,
+		"timestamp" 	: "2007-09-30",
+		"time_chip" 	: "00:53:31",
+		"time_gun" 		: "00:54:58",
+		"bib" 			: 1167,
+		"position" 		: 778,
+		"participants" 	: 1283
+	},
+
+	{
+		"title" 		: "Carrera Popular Pilar 2007",
+		"location" 		: "Zaragoza",
+		"distance" 		: 5000,
+		"timestamp" 	: "2007-10-07",
+		"time_chip" 	: "00:24:41",
+		"time_gun" 		: "00:24:48",
+		"bib" 			: 77,
+		"position" 		: 314,
+		"participants" 	: 415
+	},
+
+	{
+		"title" 		: "II 10k Zaragoza 2007",
+		"location" 		: "Zaragoza",
+		"distance" 		: 10000,
+		"timestamp" 	: "2007-10-21",
+		"time_chip" 	: "00:51:59",
+		"time_gun" 		: "00:51:59",
+		"bib" 			: 414,
+		"position" 		: 739,
+		"participants" 	: 992
+	},
+
+	{
+		"title" 		: "Carrera por la integración Ibercaja",
+		"location" 		: "Zaragoza",
+		"distance" 		: 5000,
+		"timestamp" 	: "2007-10-28",
+		"time_chip" 	: false,
+		"time_gun" 		: "00:30:06",
+		"bib" 			: false,
+		"position" 		: false,
+		"participants" 	: false
+	},
+
+	{
+		"title" 		: "III San Silvestre Zaragoza 2007",
+		"location" 		: "Zaragoza",
+		"distance" 		: 3800,
+		"timestamp" 	: "2007-12-31",
+		"time_chip" 	: "00:17:44",
+		"time_gun" 		: "00:18:23",
+		"bib" 			: 1579,
+		"position" 		: 684,
+		"participants" 	: 1347
+	},
+
+	{
+		"title" 		: "VIII Carrera Popular 10K Alcañiz",
+		"location" 		: "Alcañiz, Teruel",
+		"distance" 		: 10000,
+		"timestamp" 	: "2008-04-20",
+		"time_chip" 	: false,
+		"time_gun" 		: "00:48:00",
+		"bib" 			: 181,
+		"position" 		: 221,
+		"participants" 	: 314
+	},
+
+	{
+		"title" 		: "XI Media Maratón. Trofeo ciudad de Zaragoza",
+		"location"		: "Zaragoza",
+		"distance" 		: 21097,
+		"timestamp" 	: "2008-05-04 09:30:00",
+		"time_chip" 	: "01:48:45",
+		"time_gun" 		: "01:49:32",
+		"bib" 			: 1031,
+		"position" 		: 849,
+		"participants" 	: 1309
+	},
+
+	{
+		"title" 		: "30ª Cursa de El Corte Inglés. 11K",
+		"location"		: "Barcelona",
+		"distance" 		: 12200,
+		"timestamp" 	: "2008-05-18",
+		"time_chip" 	: false,
+		"time_gun" 		: "01:11:38",
+		"bib" 			: 48372,
+		"position" 		: false,
+		"participants" 	: false
+	},
+
+	{
+		"title" 		: "III 10k Zaragoza 2008",
+		"location"		: "Zaragoza",
+		"distance" 		: 10000,
+		"timestamp" 	: "2008-06-08",
+		"time_chip" 	: false,
+		"time_gun" 		: "00:47:47",
+		"bib" 			: 366,
+		"position" 		: 593,
+		"participants" 	: 1282
+	},
+
+	{
+		"title" 		: "XI Media Maratón Popular Villa de Monreal del Campo",
+		"location"		: "Monreal del Campo, Teruel",
+		"distance" 		: 21097,
+		"timestamp" 	: "2008-09-06",
+		"time_chip" 	: "01:42:47",
+		"time_gun" 		: "01:42:58",
+		"bib" 			: 129,
+		"position" 		: 102,
+		"participants" 	: 156
+	},
+
+	{
+		"title" 		: "II Maratón Expo Zaragoza",
+		"location"		: "Zaragoza",
+		"distance" 		: 42195,
+		"timestamp" 	: "2008-09-28",
+		"time_chip" 	: "03:53:02",
+		"time_gun" 		: "03:53:49",
+		"bib" 			: 877,
+		"position" 		: 665,
+		"participants" 	: 1120
+	},
+
+	{
+		"title" 		: "IV San Silvestre Zaragoza",
+		"location"		: "Zaragoza",
+		"distance" 		: 4500,
+		"timestamp" 	: "2008-12-31",
+		"time_chip" 	: "00:21:17",
+		"time_gun" 		: "00:22:16",
+		"bib" 			: 367,
+		"position" 		: 636,
+		"participants" 	: 1559
+	},
+
+	{
+		"title" 		: "IV Carrera del Ebro",
+		"location"		: "Zaragoza",
+		"distance" 		: 18350,
+		"timestamp" 	: "2009-03-15 10:00:00",
+		"time_chip" 	: "01:33:59",
+		"time_gun" 		: "01:34:10",
+		"bib" 			: 717,
+		"position" 		: 872,
+		"participants" 	: 1609
+	},
+
+	{
+		"title" 		: "II Duatlon Trofeo Triton",
+		"location"		: "Zaragoza",
+		"distance" 		: false,
+		"timestamp" 	: "2009-03-22",
+		"time_chip" 	: false,
+		"time_gun" 		: false,
+		"bib" 			: false,
+		"position" 		: false,
+		"participants" 	: false
+	},
+
+	{
+		"title" 		: "XII Media Maraton Ciudad de Zaragoza",
+		"location"		: "Zaragoza",
+		"distance" 		: 21097,
+		"timestamp" 	: "2009-04-26 09:30:00",
+		"time_chip" 	: false,
+		"time_gun" 		: "01:40:24",
+		"bib" 			: 838,
+		"position" 		: 700,
+		"participants" 	: 1614
+	},
+
+	{
+		"title" 		: "IV 10K Zaragoza 2009",
+		"location"		: "Zaragoza",
+		"distance" 		: 10000,
+		"timestamp" 	: "2009-06-21 10:00:00",
+		"time_chip" 	: false,
+		"time_gun" 		: "00:45:02",
+		"bib" 			: 853,
+		"position" 		: 436,
+		"participants" 	: 1679
+	},
+
+	{
+		"title" 		: "Carrera Popular Pilar 2009",
+		"location"		: "Zaragoza",
+		"distance" 		: 5000,
+		"timestamp" 	: "2009-10-04 10:30:00",
+		"time_chip" 	: "00:22:59",
+		"time_gun" 		: "00:23:13",
+		"bib" 			: 232,
+		"position" 		: 241,
+		"participants" 	: 376
+	},
+
+	{
+		"title" 		: "I Carrera Popular Pinares Venecia",
+		"location"		: "Zaragoza",
+		"distance" 		: 5000,
+		"timestamp" 	: "2009-10-11",
+		"time_chip" 	: "00:27:33",
+		"time_gun" 		: "00:28:27",
+		"bib" 			: 147,
+		"position" 		: 85,
+		"participants" 	: 177
+	},
+
+	{
+		"title" 		: "V 10K Zaragoza 2010",
+		"location"		: "Zaragoza",
+		"distance" 		: 10000,
+		"timestamp" 	: "2010-06-06",
+		"time_chip" 	: "00:50:13",
+		"time_gun" 		: "00:50:57",
+		"bib" 			: 1428,
+		"position" 		: 1059,
+		"participants" 	: 2010
+	},
+
+	{
+		"title" 		: "Carrera Popular Pilar 2010",
+		"location"		: "Zaragoza",
+		"distance" 		: 5000,
+		"timestamp" 	: "2010-10-03 10:30:00",
+		"time_chip" 	: false,
+		"time_gun" 		: "00:24:22",
+		"bib" 			: 342,
+		"position" 		: 235,
+		"participants" 	: 349
+	},
+
+	{
+		"title" 		: "I Duatlon Solidario Utebo",
+		"location"		: "Utebo, Zaragoza",
+		"distance" 		: false,
+		"timestamp" 	: "2011-02-27",
+		"time_chip" 	: "01:40:30",
+		"time_gun" 		: "01:40:48",
+		"bib" 			: 175,
+		"position" 		: 212,
+		"participants" 	: 248
+	},
+
+	{
+		"title" 		: "III Carrera Solidaria Agua para Africa",
+		"location"		: "Zaragoza",
+		"distance" 		: 5300,
+		"timestamp" 	: "2011-03-20",
+		"time_chip" 	: "00:24:07",
+		"time_gun" 		: "00:24:07",
+		"bib" 			: 865,
+		"position" 		: false,
+		"participants" 	: false
+	},
+
+	{
+		"title" 		: "Campeonato de Aragon 10.000 en pista",
+		"location"		: "Zaragoza",
+		"distance" 		: 10000,
+		"timestamp" 	: "2011-03-27",
+		"time_chip" 	: "00:46:25",
+		"time_gun" 		: "00:46:25",
+		"bib" 			: 52,
+		"position" 		: false,
+		"participants" 	: false
+	},
+
+	{
+		"title" 		: "V Carrera del Ebro 2011",
+		"location"		: "Zaragoza",
+		"distance" 		: 19000,
+		"timestamp" 	: "2011-04-03",
+		"time_chip" 	: "01:43:25",
+		"time_gun" 		: "01:45:11",
+		"bib" 			: 1060,
+		"position" 		: 989,
+		"participants" 	: 1481
+	},
+
+	{
+		"title" 		: "I Carrera Proniño Zaragoza",
+		"location"		: "Zaragoza",
+		"distance" 		: 10000,
+		"timestamp" 	: "2011-04-10",
+		"time_chip" 	: "00:43:53",
+		"time_gun" 		: "00:44:05",
+		"bib" 			: 896,
+		"position" 		: 174,
+		"participants" 	: 837
+	},
+
+	{
+		"title" 		: "I Carrera Popular Parque José Antonio Labordeta",
+		"location"		: "Zaragoza",
+		"distance" 		: 5800,
+		"timestamp" 	: "2011-04-17",
+		"time_chip" 	: "00:25:04",
+		"time_gun" 		: "00:25:04",
+		"bib" 			: 147,
+		"position" 		: 61,
+		"participants" 	: 180
+	},
+
+	{
+		"title" 		: "XIV Media Maraton Ciudad de Zaragoza",
+		"location"		: "Zaragoza",
+		"distance" 		: 21097,
+		"timestamp" 	: "2011-05-08",
+		"time_chip" 	: "01:37:20",
+		"time_gun" 		: "01:38:01",
+		"bib" 			: 829,
+		"position" 		: 649,
+		"participants" 	: 2007
+	},
+
+	{
+		"title" 		: "VII Carrera sin humo",
+		"location"		: "Zaragoza",
+		"distance" 		: 5000,
+		"timestamp" 	: "2011-05-29",
+		"time_chip" 	: "00:20:56",
+		"time_gun" 		: "00:21:07",
+		"bib" 			: 184,
+		"position" 		: 156,
+		"participants" 	: 739
+	},
+
+	{
+		"title" 		: "VI 10K Zaragoza Sport Zone",
+		"location"		: "Zaragoza",
+		"distance" 		: 10000,
+		"timestamp" 	: "2011-06-05",
+		"time_chip" 	: "00:43:30",
+		"time_gun" 		: "00:43:54",
+		"bib" 			: 550,
+		"position" 		: 372,
+		"participants" 	: 2396
+	},
+
+	{
+		"title" 		: "III Carrera Popular Pinares de Puerto Venecia",
+		"location"		: "Zaragoza",
+		"distance" 		: 11000,
+		"timestamp" 	: "2011-10-09",
+		"time_chip" 	: "00:56:17",
+		"time_gun" 		: "00:56:45",
+		"bib" 			: 778,
+		"position" 		: 320,
+		"participants" 	: 627
+	},
+
+	{
+		"title" 		: "III Media Maraton Ciudad de Huesca",
+		"location"		: "Huesca",
+		"distance" 		: 21097,
+		"timestamp" 	: "2011-10-16",
+		"time_chip" 	: "01:53:43",
+		"time_gun" 		: "01:54:02",
+		"bib" 			: 461,
+		"position" 		: 491,
+		"participants" 	: 558
+	},
+
+	{
+		"title" 		: "I Carrera Popular 12K El Rincón",
+		"location"		: "Zaragoza",
+		"distance" 		: 12000,
+		"timestamp" 	: "2012-04-29 11:00:00",
+		"time_chip" 	: "00:58:52",
+		"time_gun" 		: "00:59:05",
+		"bib" 			: 197,
+		"position" 		: 277,
+		"participants" 	: 691
+	},
+
+	{
+		"title" 		: "XV Media Maraton Ciudad de Zaragoza",
+		"location"		: "Zaragoza",
+		"distance" 		: 21097,
+		"timestamp" 	: "2012-05-13",
+		"time_chip" 	: "01:47:12",
+		"time_gun" 		: "01:48:20",
+		"bib" 			: 978,
+		"position" 		: 1232,
+		"participants" 	: 2281
+	},
+
+	{
+		"title" 		: "VII 10K Zaragoza Sport Zone",
+		"location"		: "Zaragoza",
+		"distance" 		: 10000,
+		"timestamp" 	: "2012-06-10",
+		"time_chip" 	: "00:46:34",
+		"time_gun" 		: "00:47:05",
+		"bib" 			: 3011,
+		"position" 		: 636,
+		"participants" 	: 2666
+	},
+
+	{
+		"title" 		: "VI Maraton Internacional Zaragoza. Gran Premio Ibercaja.",
+		"location"		: "Zaragoza",
+		"distance" 		: 42195,
+		"timestamp" 	: "2012-09-30",
+		"time_chip" 	: "03:40:13",
+		"time_gun" 		: "03:40:37",
+		"bib" 			: 332,
+		"position" 		: 339,
+		"participants" 	: 771
+	},
+
+	{
+		"title" 		: "Mitja Del Vendrell",
+		"location"		: "El Vendrell, Tarragona",
+		"distance" 		: 21097,
+		"timestamp" 	: "2012-10-07",
+		"time_chip" 	: "01:47:49",
+		"time_gun" 		: "01:48:16",
+		"bib" 			: 551,
+		"position" 		: 315,
+		"participants" 	: 435
+	},
+
+	{
+		"title" 		: "10K Sevilla 2013",
+		"location"		: "Sevilla",
+		"distance" 		: 10000,
+		"timestamp" 	: "2013-03-10 09:30:00",
+		"time_chip" 	: "00:47:51",
+		"time_gun" 		: "00:48:23",
+		"bib" 			: 267,
+		"position" 		: 514,
+		"participants" 	: 1245
+	},
+
+	{
+		"title" 		: "STM Group PLC. Wobbles Charity Fun Run 2013",
+		"location"		: "Gibraltar (GIB)",
+		"distance" 		: 10000,
+		"timestamp" 	: "2013-04-14",
+		"time_chip" 	: "00:48:47",
+		"time_gun" 		: "00:48:47",
+		"bib" 			: false,
+		"position" 		: false,
+		"participants" 	: false
+	},
+
+	{
+		"title" 		: "Media Maraton Metropolitana Toruños Algaida",
+		"location"		: "Puerto de Sta. Maria, Cadiz",
+		"distance" 		: 21097,
+		"timestamp" 	: "2013-04-21",
+		"time_chip" 	: "01:56:20",
+		"time_gun" 		: "01:56:20",
+		"bib" 			: 457,
+		"position" 		: 341,
+		"participants" 	: 420
+	},
+
+	{
+		"title" 		: "Gibraltar 10km Road Race '13",
+		"location"		: "Gibraltar (GIB)",
+		"distance" 		: 10000,
+		"timestamp" 	: "2013-05-12",
+		"time_chip" 	: "00:48:14",
+		"time_gun" 		: "00:48:14",
+		"bib" 			: 295,
+		"position" 		: 21,
+		"participants" 	: 54
+	},
+
+	{
+		"title" 		: "49va. Behobia - San Sebastian",
+		"location"		: "Irun, Gipuzkoa",
+		"distance" 		: 20000,
+		"timestamp" 	: "2013-11-10",
+		"time_chip" 	: "01:37:49",
+		"time_gun" 		: "01:37:49",
+		"bib" 			: 21014,
+		"position" 		: 8994,
+		"participants" 	: 23728
+	},
+
+	{
+		"title" 		: "V Media Maratón Ciudad de Huesca",
+		"location"		: "Huesca",
+		"distance" 		: 21097,
+		"timestamp" 	: "2013-11-17",
+		"time_chip" 	: "01:41:09",
+		"time_gun" 		: "01:41:45",
+		"bib" 			: 1113,
+		"position" 		: 244,
+		"participants" 	: 431
+	},
+
+	{
+		"title" 		: "Sanitas Marca Running Series 10K",
+		"location"		: "Zaragoza",
+		"distance" 		: 10000,
+		"timestamp" 	: "2013-11-24",
+		"time_chip" 	: "00:45:12",
+		"time_gun" 		: "00:45:12",
+		"bib" 			: 292,
+		"position" 		: 239,
+		"participants" 	: 947
+	},
+
+	{
+		"title" 		: "VIII Carrera del Ebro - Ultra Trail 30K",
+		"location"		: "Zaragoza",
+		"distance" 		: 30000,
+		"timestamp" 	: "2014-03-23",
+		"time_chip" 	: "02:40:34",
+		"time_gun" 		: "02:40:58",
+		"bib" 			: 546,
+		"position" 		: 371,
+		"participants" 	: 766
+	},
+
+	{
+		"title" 		: "IX Mitja Marato de Sabadell 2014",
+		"location"		: "Sabadell, Barcelona",
+		"distance" 		: 21097,
+		"timestamp" 	: "2014-09-07",
+		"time_chip" 	: "01:47:43",
+		"time_gun" 		: "01:49:12",
+		"bib" 			: 623,
+		"position" 		: 393,
+		"participants" 	: 657
+	},
+
+	{
+		"title" 		: "2014 Bank of America Chicago Marathon",
+		"location"		: "Chicago, IL (USA)",
+		"distance" 		: 42195,
+		"timestamp" 	: "2014-10-12",
+		"time_chip" 	: "03:38:27",
+		"time_gun" 		: "03:38:27",
+		"bib" 			: 12086,
+		"position" 		: 6450,
+		"participants" 	: 40568
+	},
+
+	{
+		"title" 		: "2XU Santa Monica RunFest 10K",
+		"location"		: "Santa Monica, CA (USA)",
+		"distance" 		: 10000,
+		"timestamp" 	: "2014-10-19",
+		"time_chip" 	: "00:46:30",
+		"time_gun" 		: "00:47:23",
+		"bib" 			: 3658,
+		"position" 		: 61,
+		"participants" 	: 546
+	},
+
+	{
+		"title" 		: "XXX Media Maratón Fuencarral - El Pardo",
+		"location"		: "Madrid",
+		"distance" 		: 21097,
+		"timestamp" 	: "2015-02-08 09:00:00",
+		"time_chip" 	: "01:45:31",
+		"time_gun" 		: "01:48:18",
+		"bib" 			: 2694,
+		"position" 		: 1010,
+		"participants" 	: 2330
+	},
+
+	{
+		"title" 		: "1/2 BCN Mitja Barcelona 2015",
+		"location"		: "Barcelona",
+		"distance" 		: 21097,
+		"timestamp" 	: "2015-02-15 08:45:00",
+		"time_chip" 	: "01:41:38",
+		"time_gun" 		: "01:50:37",
+		"bib" 			: 15001,
+		"position" 		: 4011,
+		"participants" 	: 12488
+	},
+
+	{
+		"title" 		: "IX Carrera del Ebro - Ultra Trail 30K",
+		"location"		: "Zaragoza",
+		"distance" 		: 30000,
+		"timestamp" 	: "2015-03-01",
+		"time_chip" 	: "02:44:18",
+		"time_gun" 		: "02:45:00",
+		"bib" 			: 674,
+		"position" 		: 502,
+		"participants" 	: 894
+	},
+
+	{
+		"title" 		: "XIII Maratón Vitoria-Gasteiz Martín Fiz",
+		"location"		: "Vitoria, Alava",
+		"distance" 		: 42195,
+		"timestamp" 	: "2015-05-10",
+		"time_chip" 	: "03:56:58",
+		"time_gun" 		: "03:57:36",
+		"bib" 			: 939,
+		"position" 		: 494,
+		"participants" 	: 750
+	},
+
+	{
+		"title" 		: "42nd BMW Berlin Marathon. 2015",
+		"location"		: "Berlin (GER)",
+		"distance" 		: 42195,
+		"timestamp" 	: "2015-09-27 09:16:41",
+		"time_chip" 	: "04:10:02",
+		"time_gun" 		: "04:26:42",
+		"bib" 			: 24998,
+		"position" 		: 17604,
+		"participants" 	: 36821
+	},
+
+	{
+		"title" 		: "Medio Maratón Valencia Trinidad Alonso 2015",
+		"location"		: "Valencia",
+		"distance" 		: 21097,
+		"timestamp" 	: "2015-10-19 09:00:00",
+		"time_chip" 	: "02:07:00",
+		"time_gun" 		: "02:08:10",
+		"bib" 			: 11036,
+		"position" 		: 7772,
+		"participants" 	: 10856
+	},
+
+	{
+		"title" 		: "XXXIX Media Maratón Popular de Moratalaz",
+		"location"		: "Madrid",
+		"distance" 		: 21097,
+		"timestamp" 	: "2015-11-08 10:30:00",
+		"time_chip" 	: "01:45:25",
+		"time_gun" 		: "01:45:25",
+		"bib" 			: 691,
+		"position" 		: 455,
+		"participants" 	: 808
+	},
+
+	{
+		"title" 		: "VII Media Maratón de Huesca 2015",
+		"location"		: "Huesca",
+		"distance" 		: 21097,
+		"timestamp" 	: "2015-11-15 10:00:00",
+		"time_chip" 	: "01:44:34",
+		"time_gun" 		: "01:45:10",
+		"bib" 			: 140,
+		"position" 		: 287,
+		"participants" 	: 425
+	},
+
+	{
+		"title" 		: "IV Sanitas MARCA Running Series Zaragoza",
+		"location"		: "Zaragoza",
+		"distance" 		: 10000,
+		"timestamp" 	: "2015-11-22 10:00:00",
+		"time_chip" 	: "00:46:24",
+		"time_gun" 		: "00:46:24",
+		"bib" 			: 1109,
+		"position" 		: 229,
+		"participants" 	: 613
+	}
+
+]
