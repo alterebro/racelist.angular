@@ -1,6 +1,6 @@
 [
 
-	{	
+	{
 		"title" 		: "10K Maraton Expo Zaragoza El Corte Ingles",
 		"location" 		: "Zaragoza",
 		"distance" 		: 10000,
@@ -670,6 +670,18 @@
 		"bib" 			: 1109,
 		"position" 		: 229,
 		"participants" 	: 613
+	},
+
+	{
+		"title" 		: "Mitja Marató Ciutat de Tarragona 2015",
+		"location"		: "Tarragona",
+		"distance" 		: 21097,
+		"timestamp" 	: "2015-11-29 10:00:00",
+		"time_chip" 	: "01:43:43",
+		"time_gun" 		: "01:45:43",
+		"bib" 			: 1431,
+		"position" 		: 819,
+		"participants" 	: 1547
 	}
 
 ]
