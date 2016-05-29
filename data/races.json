@@ -682,6 +682,18 @@
 		"bib" 			: 1431,
 		"position" 		: 819,
 		"participants" 	: 1547
+	},
+
+	{
+		"title" 		: "XII Carrera sin Humo 2016",
+		"location"		: "Zaragoza",
+		"distance" 		: 5000,
+		"timestamp" 	: "2016-05-29 09:30:00",
+		"time_chip" 	: "00:20:56",
+		"time_gun" 		: "00:21:01",
+		"bib" 			: 778,
+		"position" 		: 106,
+		"participants" 	: 707
 	}
 
 ]
