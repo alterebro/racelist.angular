@@ -694,6 +694,18 @@
 		"bib" 			: 778,
 		"position" 		: 106,
 		"participants" 	: 707
+	},
+
+	{
+		"title" 		: "XI 10K Zaragoza CaixaBank 2016",
+		"location"		: "Zaragoza",
+		"distance" 		: 10000,
+		"timestamp" 	: "2016-06-12 09:30:00",
+		"time_chip" 	: "00:44:12",
+		"time_gun" 		: "00:44:54",
+		"bib" 			: 1169,
+		"position" 		: 587,
+		"participants" 	: 4468
 	}
 
 ]
