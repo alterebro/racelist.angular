@@ -706,6 +706,18 @@
 		"bib" 			: 1169,
 		"position" 		: 587,
 		"participants" 	: 4468
+	},
+
+	{
+		"title" 		: "XX Media Maratón Ibercaja Ciudad de Zaragoza 2017",
+		"location"		: "Zaragoza",
+		"distance" 		: 21097,
+		"timestamp" 	: "2017-03-12 09:00:00",
+		"time_chip" 	: "01:44:41",
+		"time_gun" 		: "01:45:48",
+		"bib" 			: 1687,
+		"position" 		: 1329,
+		"participants" 	: 3012
 	}
 
 ]

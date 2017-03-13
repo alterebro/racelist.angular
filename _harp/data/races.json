@@ -682,6 +682,42 @@
 		"bib" 			: 1431,
 		"position" 		: 819,
 		"participants" 	: 1547
+	},
+
+	{
+		"title" 		: "XII Carrera sin Humo 2016",
+		"location"		: "Zaragoza",
+		"distance" 		: 5000,
+		"timestamp" 	: "2016-05-29 09:30:00",
+		"time_chip" 	: "00:20:56",
+		"time_gun" 		: "00:21:01",
+		"bib" 			: 778,
+		"position" 		: 106,
+		"participants" 	: 707
+	},
+
+	{
+		"title" 		: "XI 10K Zaragoza CaixaBank 2016",
+		"location"		: "Zaragoza",
+		"distance" 		: 10000,
+		"timestamp" 	: "2016-06-12 09:30:00",
+		"time_chip" 	: "00:44:12",
+		"time_gun" 		: "00:44:54",
+		"bib" 			: 1169,
+		"position" 		: 587,
+		"participants" 	: 4468
+	},
+
+	{
+		"title" 		: "XX Media Maratón Ibercaja Ciudad de Zaragoza 2017",
+		"location"		: "Zaragoza",
+		"distance" 		: 21097,
+		"timestamp" 	: "2017-03-12 09:00:00",
+		"time_chip" 	: "01:44:41",
+		"time_gun" 		: "01:45:48",
+		"bib" 			: 1687,
+		"position" 		: 1329,
+		"participants" 	: 3012
 	}
 
 ]
