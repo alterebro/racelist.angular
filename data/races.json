@@ -730,6 +730,18 @@
 		"bib" 			: 4621,
 		"position" 		: 1069,
 		"participants" 	: 4208
+	},
+
+	{
+		"title" 		: "39è Cros Popular de Sants",
+		"location"		: "Barcelona",
+		"distance" 		: 10000,
+		"timestamp" 	: "2017-10-29 10:00:00",
+		"time_chip" 	: "00:49:09",
+		"time_gun" 		: "00:51:13",
+		"bib" 			: 1676,
+		"position" 		: 811,
+		"participants" 	: 1453
 	}
 
 ]

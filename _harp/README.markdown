@@ -24,3 +24,13 @@ This sample web app was built using:
 - **LESS** : CSS Preprocessor http://lesscss.org/
 - **Harp** : Static Web Server http://harpjs.com/
 - **armazon.css** : CSS3 mini framework https://github.com/alterebro/armazon.css
+
+
+---
+
+Build static site via Harp : 
+
+```sh
+$ cd project_folder
+$ harp compile _harp/ ./  
+```
