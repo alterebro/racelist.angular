@@ -742,6 +742,30 @@
 		"bib" 			: 1676,
 		"position" 		: 811,
 		"participants" 	: 1453
-	}
+	},
+
+	{
+		"title" 		: "Cursa Solidària Running 1900 10K",
+		"location"		: "Cornellá, Barcelona",
+		"distance" 		: 10000,
+		"timestamp" 	: "2017-11-12 10:30:00",
+		"time_chip" 	: "00:49:00",
+		"time_gun" 		: "00:49:46",
+		"bib" 			: 703,
+		"position" 		: 241,
+		"participants" 	: 542
+	},
+
+	{
+		"title" 		: "94a Jean Bouin Open 10K",
+		"location"		: "Barcelona",
+		"distance" 		: 10000,
+		"timestamp" 	: "2017-11-26 09:00:00",
+		"time_chip" 	: "00:50:36",
+		"time_gun" 		: "00:58:36",
+		"bib" 			: 9629,
+		"position" 		: 2868,
+		"participants" 	: 6606
+	}	
 
 ]
