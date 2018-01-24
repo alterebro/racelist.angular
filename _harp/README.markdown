@@ -28,9 +28,14 @@ This sample web app was built using:
 
 ---
 
-Build static site via Harp : 
+Static site development via [Harp](http://harpjs.com/docs/development/) : 
 
 ```sh
 $ cd project_folder
-$ harp compile _harp/ ./  
+
+# Dev (http://localhost:9000/)
+$ harp server _harp/
+
+# Build
+$ harp compile _harp/ ./ 
 ```
