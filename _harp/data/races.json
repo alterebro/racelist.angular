@@ -778,6 +778,29 @@
 		"bib" 			: 4322,
 		"position" 		: 3208,
 		"participants" 	: 3760
-	}
+	},
 
+	{
+		"title" 		: "9a Cursa Nocturna Ciutat de L'Hospitalet",
+		"location" 		: "Hospitalet, Barcelona",
+		"distance" 		: 10000,
+		"timestamp" 	: "2018-04-14",
+		"time_chip" 	: "00:52:57",
+		"time_gun" 		: "00:55:51",
+		"bib" 			: 2902,
+		"position" 		: 1128,
+		"participants" 	: 1712
+	},
+	
+	{
+		"title" 		: "Cursa Bombers Barcelona 10K",
+		"location" 		: "Barcelona",
+		"distance" 		: 10000,
+		"timestamp" 	: "2018-04-22",
+		"time_chip" 	: "00:51:33",
+		"time_gun" 		: "01:05:07",
+		"bib" 			: 13323,
+		"position" 		: 4172,
+		"participants" 	: 11529
+	}
 ]

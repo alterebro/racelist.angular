@@ -14,7 +14,7 @@ function sec2time(seconds) {
 
 
 function slugify(str) {
-	
+
 	str = str.replace(/^\s+|\s+$/g, ''); // trim
 	str = str.toLowerCase();
 
@@ -51,11 +51,11 @@ var ngApp = angular.module('ngApp', ['ngRoute']);
 
 		function( $routeProvider ) {
 			$routeProvider
-				.when('/races', { 
+				.when('/races', {
 					controller: 'mainController',
 					template: ' '
 				})
-				.when('/race/:slug', { 
+				.when('/race/:slug', {
 					controller: 'mainController',
 					template: ' '
 				})
@@ -76,9 +76,10 @@ var ngApp = angular.module('ngApp', ['ngRoute']);
 
 				angular.forEach($scope.data, function(obj){
 					// -- Calculate Pace
-					var chiptime = obj.time_chip + '';   // your input string
+					var _time = (obj.time_chip) ? obj.time_chip : obj.time_gun;
+					var chiptime = _time + '';   // your input string
 					var chiptime_chunk = chiptime.split(':');
-					var chiptime_seconds = (+chiptime_chunk[0]) * 60 * 60 + (+chiptime_chunk[1]) * 60 + (+chiptime_chunk[2]); 
+					var chiptime_seconds = (+chiptime_chunk[0]) * 60 * 60 + (+chiptime_chunk[1]) * 60 + (+chiptime_chunk[2]);
 
 					var km = obj.distance/1000;
 					var pace = (!!chiptime_seconds && !!km) ? Math.round(chiptime_seconds/km) : 0;
@@ -122,7 +123,7 @@ var ngApp = angular.module('ngApp', ['ngRoute']);
 
 
 		$scope.the_slug = '-----';
-		$scope.detail = 'detail-close';			
+		$scope.detail = 'detail-close';
 
 		$scope.showDetail = function(slug) {
 			$scope.the_slug = slug;
@@ -131,10 +132,10 @@ var ngApp = angular.module('ngApp', ['ngRoute']);
 
 		$scope.closeDetail = function() {
 			$scope.the_slug = '-----';
-			$scope.detail = 'detail-close';	
+			$scope.detail = 'detail-close';
 		}
 
-		
+
 		// Check for slug init
 		$scope.$on('$routeChangeSuccess', function() {
 		    if ( !!$routeParams.slug ) {
@@ -158,5 +159,4 @@ var ngApp = angular.module('ngApp', ['ngRoute']);
 			return function(input) {
 				return (input == false) ? '--' : input;
 			};
-		});	
-
+		});
