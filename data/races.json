@@ -814,5 +814,17 @@
 		"bib" 			: 992,
 		"position" 		: 348,
 		"participants" 	: 600
+	},
+
+	{
+		"title" 		: "XVI Cursa de Can Mercader 10K",
+		"location" 		: "Cornellá, Barcelona",
+		"distance" 		: 10000,
+		"timestamp" 	: "2018-05-20 09:00:00",
+		"time_chip" 	: "00:48:18",
+		"time_gun" 		: "00:48:54",
+		"bib" 			: 441,
+		"position" 		: 193,
+		"participants" 	: 329
 	}
 ]
