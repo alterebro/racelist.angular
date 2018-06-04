@@ -826,5 +826,17 @@
 		"bib" 			: 441,
 		"position" 		: 193,
 		"participants" 	: 329
+	},
+
+	{
+		"title" 		: "6ª Cursa Guàrdia Urbana Diagonal 2018",
+		"location" 		: "Barcelona",
+		"distance" 		: 10000,
+		"timestamp" 	: "2018-05-27 08:30:00",
+		"time_chip" 	: "00:46:02",
+		"time_gun" 		: "00:50:57",
+		"bib" 			: 9637,
+		"position" 		: 1231,
+		"participants" 	: 5819
 	}
 ]
