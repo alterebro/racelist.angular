@@ -838,5 +838,17 @@
 		"bib" 			: 9637,
 		"position" 		: 1231,
 		"participants" 	: 5819
+	},
+
+	{
+		"title" 		: "Cursa Barça 10K 2018",
+		"location" 		: "Barcelona",
+		"distance" 		: 10000,
+		"timestamp" 	: "2018-06-17 09:00:00",
+		"time_chip" 	: "00:51:38",
+		"time_gun" 		: "00:56:57",
+		"bib" 			: 3409,
+		"position" 		: 942,
+		"participants" 	: 2498
 	}
 ]
