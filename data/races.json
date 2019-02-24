@@ -850,5 +850,17 @@
 		"bib" 			: 3409,
 		"position" 		: 942,
 		"participants" 	: 2498
+	},
+
+	{
+		"title" 		: "VIII Carrera Solidaria Entreculturas Málaga 10K",
+		"location" 		: "Málaga",
+		"distance" 		: 10000,
+		"timestamp" 	: "2019-02-17 09:45:00",
+		"time_chip" 	: "00:51:55",
+		"time_gun" 		: "00:53:31",
+		"bib" 			: 462,
+		"position" 		: 213,
+		"participants" 	: 443
 	}
 ]
