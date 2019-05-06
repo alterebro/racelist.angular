@@ -886,5 +886,17 @@
 		"bib" 			: 2472,
 		"position" 		: 1234,
 		"participants" 	: 2120
+	},
+
+	{
+		"title" 		: "20a Cursa Delta Prat 10K",
+		"location" 		: "El Prat, Barcelona",
+		"distance" 		: 10000,
+		"timestamp" 	: "2019-05-05 09:00:00",
+		"time_chip" 	: "00:48:29",
+		"time_gun" 		: "00:49:26",
+		"bib" 			: 904,
+		"position" 		: 275,
+		"participants" 	: 486
 	}
 ]
