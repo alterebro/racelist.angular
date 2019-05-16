@@ -898,5 +898,17 @@
 		"bib" 			: 904,
 		"position" 		: 275,
 		"participants" 	: 486
+	},
+
+	{
+		"title" 		: "7ª Cursa DiR Guàrdia Urbana Diagonal 2019",
+		"location" 		: "Barcelona",
+		"distance" 		: 10000,
+		"timestamp" 	: "2019-05-12 08:30:00",
+		"time_chip" 	: "00:46:18",
+		"time_gun" 		: "00:50:32",
+		"bib" 			: 7936,
+		"position" 		: 1155,
+		"participants" 	: 5157
 	}
 ]
