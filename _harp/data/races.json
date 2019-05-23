@@ -910,5 +910,17 @@
 		"bib" 			: 7936,
 		"position" 		: 1155,
 		"participants" 	: 5157
+	},
+
+	{
+		"title" 		: "33 Cursa Popular de Nou Barris 10K",
+		"location" 		: "Barcelona",
+		"distance" 		: 10000,
+		"timestamp" 	: "2019-05-19 09:30:00",
+		"time_chip" 	: "00:47:49",
+		"time_gun" 		: "00:48:51",
+		"bib" 			: 1261,
+		"position" 		: 375,
+		"participants" 	: 922
 	}
 ]
