@@ -922,5 +922,17 @@
 		"bib" 			: 1261,
 		"position" 		: 375,
 		"participants" 	: 922
+	},
+
+	{
+		"title" 		: "XII Cursa La Maquinista 10K",
+		"location" 		: "Barcelona",
+		"distance" 		: 10000,
+		"timestamp" 	: "2019-06-02 09:00:00",
+		"time_chip" 	: "00:51:26",
+		"time_gun" 		: "00:54:27",
+		"bib" 			: 1294,
+		"position" 		: 497,
+		"participants" 	: 906
 	}
 ]
