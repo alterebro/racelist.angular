@@ -934,5 +934,17 @@
 		"bib" 			: 1294,
 		"position" 		: 497,
 		"participants" 	: 906
+	},
+
+	{
+		"title" 		: "5a Cursa Besòs Maresme 10K",
+		"location" 		: "Barcelona",
+		"distance" 		: 10000,
+		"timestamp" 	: "2019-06-09 08:30:00",
+		"time_chip" 	: "00:52:45",
+		"time_gun" 		: "00:53:17",
+		"bib" 			: 289,
+		"position" 		: 174,
+		"participants" 	: 254
 	}
 ]
