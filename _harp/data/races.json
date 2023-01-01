@@ -958,5 +958,17 @@
 		"bib" 			: 3650,
 		"position" 		: 1021,
 		"participants" 	: 2502
+	},
+
+	{
+		"title" 		: "San Silvestre Ciudad de Oviedo 2022",
+		"location" 		: "Oviedo",
+		"distance" 		: 5700,
+		"timestamp" 	: "2022-12-31 18:30:00",
+		"time_chip" 	: "00:28:10",
+		"time_gun" 		: "00:28:56",
+		"bib" 			: 3782,
+		"position" 		: 753,
+		"participants" 	: 3313
 	}
 ]
