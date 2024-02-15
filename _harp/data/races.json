@@ -970,5 +970,30 @@
 		"bib" 			: 3782,
 		"position" 		: 753,
 		"participants" 	: 3313
+	},
+
+	{
+		"title" 		: "XXXIII Media Maratón de Torremolinos",
+		"location" 		: "Torremolinos, Málaga",
+		"distance" 		: 21097,
+		"timestamp" 	: "2023-02-05",
+		"time_chip" 	: "01:52:41",
+		"time_gun" 		: "01:54:08",
+		"bib" 			: 940,
+		"position" 		: 690,
+		"participants" 	: 1204
+	},
+
+	{
+		"title" 		: "XXXIV Media Maratón de Torremolinos",
+		"location" 		: "Torremolinos, Málaga",
+		"distance" 		: 21097,
+		"timestamp" 	: "2024-02-04 09:30:00",
+		"time_chip" 	: "01:58:44",
+		"time_gun" 		: "01:59:57",
+		"bib" 			: 1052,
+		"position" 		: 918,
+		"participants" 	: 1355
 	}
+
 ]
