@@ -994,6 +994,18 @@
 		"bib" 			: 1052,
 		"position" 		: 918,
 		"participants" 	: 1355
+	},
+
+	{
+		"title" 		: "Los 10k del Grupo",
+		"location" 		: "Gijón",
+		"distance" 		: 10000,
+		"timestamp" 	: "2024-03-10 10:30:00",
+		"time_chip" 	: "00:50:01",
+		"time_gun" 		: "00:50:52",
+		"bib" 			: 879,
+		"position" 		: 610,
+		"participants" 	: 910
 	}
 
 ]
