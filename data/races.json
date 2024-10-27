@@ -1006,6 +1006,17 @@
 		"bib" 			: 879,
 		"position" 		: 610,
 		"participants" 	: 910
-	}
+	},
 
+	{
+		"title" 		: "Màgic BDN Running 10K",
+		"location" 		: "Badalona, Barcelona",
+		"distance" 		: 10000,
+		"timestamp" 	: "2024-10-27 10:00:00",
+		"time_chip" 	: "00:59:09",
+		"time_gun" 		: "01:00:44",
+		"bib" 			: 2409,
+		"position" 		: 1117,
+		"participants" 	: 1470
+	}
 ]
