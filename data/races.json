@@ -1018,5 +1018,17 @@
 		"bib" 			: 2409,
 		"position" 		: 1117,
 		"participants" 	: 1470
+	},
+
+	{
+		"title" 		: "XXXV Media Maratón de Torremolinos",
+		"location" 		: "Torremolinos, Málaga",
+		"distance" 		: 21097,
+		"timestamp" 	: "2025-02-02 09:30:00",
+		"time_chip" 	: "01:57:41",
+		"time_gun" 		: "01:59:26",
+		"bib" 			: 1616,
+		"position" 		: 1137,
+		"participants" 	: 1843
 	}
 ]
