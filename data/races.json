@@ -1030,5 +1030,17 @@
 		"bib" 			: 1616,
 		"position" 		: 1137,
 		"participants" 	: 1843
+	},
+
+	{
+		"title" 		: "XIV Carrera Nocturna Entreculturas León 10K",
+		"location" 		: "León",
+		"distance" 		: 9600,
+		"timestamp" 	: "2025-02-15 18:00:00",
+		"time_chip" 	: "00:47:56",
+		"time_gun" 		: "00:48:08",
+		"bib" 			: 71,
+		"position" 		: 56,
+		"participants" 	: 87
 	}
 ]

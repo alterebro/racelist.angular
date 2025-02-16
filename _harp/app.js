@@ -4,7 +4,8 @@ function sec2time(seconds) {
 
 	var hours = Math.floor(seconds / 3600);
 	var mins = Math.floor((seconds - (hours*3600)) / 60);
-	var secs = Math.floor(seconds % 60);
+	// var secs = Math.floor(seconds % 60);
+	var secs = parseInt(seconds) % 60;
 
 	mins = (mins<10) ? '0'+mins : mins;
 	secs = (secs<10) ? '0'+secs : secs;
@@ -84,7 +85,7 @@ var ngApp = angular.module('ngApp', ['ngRoute']);
 					var chiptime_seconds = (+chiptime_chunk[0]) * 60 * 60 + (+chiptime_chunk[1]) * 60 + (+chiptime_chunk[2]);
 
 					var km = obj.distance/1000;
-					var pace = (!!chiptime_seconds && !!km) ? Math.round(chiptime_seconds/km) : 0;
+					var pace = (!!chiptime_seconds && !!km) ? chiptime_seconds/km : 0;
 
 						// Insert Pace
 						obj.pace = sec2time(pace);
