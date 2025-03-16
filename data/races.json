@@ -265,7 +265,7 @@
 	},
 
 	{
-		"title" 		: "Campeonato de Aragon 10.000 en pista",
+		"title" 		: "Campeonato de Aragón 10000 en pista (10K)",
 		"location"		: "Zaragoza",
 		"distance" 		: 10000,
 		"timestamp" 	: "2011-03-27",
@@ -289,7 +289,7 @@
 	},
 
 	{
-		"title" 		: "I Carrera Proniño Zaragoza",
+		"title" 		: "I Carrera 10k Proniño Zaragoza",
 		"location"		: "Zaragoza",
 		"distance" 		: 10000,
 		"timestamp" 	: "2011-04-10",
@@ -445,7 +445,7 @@
 	},
 
 	{
-		"title" 		: "STM Group PLC. Wobbles Charity Fun Run 2013",
+		"title" 		: "STM Group PLC. Wobbles Charity 10k Fun Run 2013",
 		"location"		: "Gibraltar (GIB)",
 		"distance" 		: 10000,
 		"timestamp" 	: "2013-04-14",
@@ -661,7 +661,7 @@
 	},
 
 	{
-		"title" 		: "IV Sanitas MARCA Running Series Zaragoza",
+		"title" 		: "IV Sanitas MARCA 10k Running Series Zaragoza",
 		"location"		: "Zaragoza",
 		"distance" 		: 10000,
 		"timestamp" 	: "2015-11-22 10:00:00",
@@ -733,7 +733,7 @@
 	},
 
 	{
-		"title" 		: "39è Cros Popular de Sants",
+		"title" 		: "39è Cros Popular 10k de Sants",
 		"location"		: "Barcelona",
 		"distance" 		: 10000,
 		"timestamp" 	: "2017-10-29 10:00:00",
@@ -781,7 +781,7 @@
 	},
 
 	{
-		"title" 		: "9a Cursa Nocturna Ciutat de L'Hospitalet",
+		"title" 		: "9a Cursa Nocturna 10k Ciutat de L'Hospitalet",
 		"location" 		: "Hospitalet, Barcelona",
 		"distance" 		: 10000,
 		"timestamp" 	: "2018-04-14 20:30:00",
@@ -829,7 +829,7 @@
 	},
 
 	{
-		"title" 		: "6ª Cursa Guàrdia Urbana Diagonal 2018",
+		"title" 		: "6ª Cursa Guàrdia Urbana 10k Diagonal 2018",
 		"location" 		: "Barcelona",
 		"distance" 		: 10000,
 		"timestamp" 	: "2018-05-27 08:30:00",
@@ -877,7 +877,7 @@
 	},
 
 	{
-		"title" 		: "10a Cursa Nocturna Ciutat de L'Hospitalet",
+		"title" 		: "10a Cursa Nocturna 10k Ciutat de L'Hospitalet",
 		"location" 		: "Hospitalet, Barcelona",
 		"distance" 		: 10000,
 		"timestamp" 	: "2019-04-13 20:30:00",
@@ -901,7 +901,7 @@
 	},
 
 	{
-		"title" 		: "7ª Cursa DiR Guàrdia Urbana Diagonal 2019",
+		"title" 		: "7ª Cursa DiR 10k Guàrdia Urbana Diagonal 2019",
 		"location" 		: "Barcelona",
 		"distance" 		: 10000,
 		"timestamp" 	: "2019-05-12 08:30:00",
@@ -1042,5 +1042,17 @@
 		"bib" 			: 71,
 		"position" 		: 56,
 		"participants" 	: 87
+	},
+
+	{
+		"title" 		: "10a. Los 10k del Grupo",
+		"location" 		: "Gijón",
+		"distance" 		: 10000,
+		"timestamp" 	: "2025-03-16 10:30:00",
+		"time_chip" 	: "00:49:07",
+		"time_gun" 		: "00:50:17",
+		"bib" 			: 1148,
+		"position" 		: 748,
+		"participants" 	: 1269
 	}
 ]
