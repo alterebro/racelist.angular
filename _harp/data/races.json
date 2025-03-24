@@ -1045,7 +1045,7 @@
 	},
 
 	{
-		"title" 		: "10a. Los 10k del Grupo",
+		"title" 		: "X Los 10k del Grupo",
 		"location" 		: "Gijón",
 		"distance" 		: 10000,
 		"timestamp" 	: "2025-03-16 10:30:00",
@@ -1054,5 +1054,17 @@
 		"bib" 			: 1148,
 		"position" 		: 748,
 		"participants" 	: 1269
+	},
+
+	{
+		"title" 		: "XV Media Maratón de León",
+		"location" 		: "León",
+		"distance" 		: 21097,
+		"timestamp" 	: "2025-03-23 10:30:00",
+		"time_chip" 	: "01:49:28",
+		"time_gun" 		: "01:50:38",
+		"bib" 			: 1147,
+		"position" 		: 910,
+		"participants" 	: 1404
 	}
 ]
