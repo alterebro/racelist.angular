@@ -962,7 +962,7 @@
 
 	{
 		"title" 		: "San Silvestre Ciudad de Oviedo 2022",
-		"location" 		: "Oviedo",
+		"location" 		: "Oviedo, Asturias",
 		"distance" 		: 5700,
 		"timestamp" 	: "2022-12-31 18:30:00",
 		"time_chip" 	: "00:28:10",
@@ -998,7 +998,7 @@
 
 	{
 		"title" 		: "Los 10k del Grupo",
-		"location" 		: "Gijón",
+		"location" 		: "Gijón, Asturias",
 		"distance" 		: 10000,
 		"timestamp" 	: "2024-03-10 10:30:00",
 		"time_chip" 	: "00:50:01",
@@ -1046,7 +1046,7 @@
 
 	{
 		"title" 		: "X Los 10k del Grupo",
-		"location" 		: "Gijón",
+		"location" 		: "Gijón, Asturias",
 		"distance" 		: 10000,
 		"timestamp" 	: "2025-03-16 10:30:00",
 		"time_chip" 	: "00:49:07",
@@ -1066,5 +1066,17 @@
 		"bib" 			: 1147,
 		"position" 		: 910,
 		"participants" 	: 1404
+	},
+
+	{
+		"title" 		: "V Memorial Eloy Palacio Alonso",
+		"location" 		: "Oviedo, Asturias",
+		"distance" 		: 5300,
+		"timestamp" 	: "2025-04-06 11:30:00",
+		"time_chip" 	: "00:26:00",
+		"time_gun" 		: "00:26:14",
+		"bib" 			: 408,
+		"position" 		: 88,
+		"participants" 	: 196
 	}
 ]
