@@ -10,9 +10,7 @@
 		"bib" 			: 1167,
 		"position" 		: 778,
 		"participants" 	: 1283
-	},
-
-	{
+	}, {
 		"title" 		: "Carrera Popular Pilar 2007",
 		"location" 		: "Zaragoza",
 		"distance" 		: 5000,
@@ -22,9 +20,7 @@
 		"bib" 			: 77,
 		"position" 		: 314,
 		"participants" 	: 415
-	},
-
-	{
+	}, {
 		"title" 		: "II 10k Zaragoza 2007",
 		"location" 		: "Zaragoza",
 		"distance" 		: 10000,
@@ -34,9 +30,7 @@
 		"bib" 			: 414,
 		"position" 		: 739,
 		"participants" 	: 992
-	},
-
-	{
+	}, {
 		"title" 		: "Carrera por la integración Ibercaja",
 		"location" 		: "Zaragoza",
 		"distance" 		: 5000,
@@ -46,9 +40,7 @@
 		"bib" 			: false,
 		"position" 		: false,
 		"participants" 	: false
-	},
-
-	{
+	}, {
 		"title" 		: "III San Silvestre Zaragoza 2007",
 		"location" 		: "Zaragoza",
 		"distance" 		: 3800,
@@ -58,9 +50,7 @@
 		"bib" 			: 1579,
 		"position" 		: 684,
 		"participants" 	: 1347
-	},
-
-	{
+	}, {
 		"title" 		: "VIII Carrera Popular 10K Alcañiz",
 		"location" 		: "Alcañiz, Teruel",
 		"distance" 		: 10000,
@@ -70,9 +60,7 @@
 		"bib" 			: 181,
 		"position" 		: 221,
 		"participants" 	: 314
-	},
-
-	{
+	}, {
 		"title" 		: "XI Media Maratón. Trofeo ciudad de Zaragoza",
 		"location"		: "Zaragoza",
 		"distance" 		: 21097,
@@ -82,9 +70,7 @@
 		"bib" 			: 1031,
 		"position" 		: 849,
 		"participants" 	: 1309
-	},
-
-	{
+	}, {
 		"title" 		: "30ª Cursa de El Corte Inglés. 11K",
 		"location"		: "Barcelona",
 		"distance" 		: 12200,
@@ -94,9 +80,7 @@
 		"bib" 			: 48372,
 		"position" 		: false,
 		"participants" 	: false
-	},
-
-	{
+	}, {
 		"title" 		: "III 10k Zaragoza 2008",
 		"location"		: "Zaragoza",
 		"distance" 		: 10000,
@@ -106,9 +90,7 @@
 		"bib" 			: 366,
 		"position" 		: 593,
 		"participants" 	: 1282
-	},
-
-	{
+	}, {
 		"title" 		: "XI Media Maratón Popular Villa de Monreal del Campo",
 		"location"		: "Monreal del Campo, Teruel",
 		"distance" 		: 21097,
@@ -118,9 +100,7 @@
 		"bib" 			: 129,
 		"position" 		: 102,
 		"participants" 	: 156
-	},
-
-	{
+	}, {
 		"title" 		: "II Maratón Expo Zaragoza",
 		"location"		: "Zaragoza",
 		"distance" 		: 42195,
@@ -130,9 +110,7 @@
 		"bib" 			: 877,
 		"position" 		: 665,
 		"participants" 	: 1120
-	},
-
-	{
+	}, {
 		"title" 		: "IV San Silvestre Zaragoza",
 		"location"		: "Zaragoza",
 		"distance" 		: 4500,
@@ -142,9 +120,7 @@
 		"bib" 			: 367,
 		"position" 		: 636,
 		"participants" 	: 1559
-	},
-
-	{
+	}, {
 		"title" 		: "IV Carrera del Ebro",
 		"location"		: "Zaragoza",
 		"distance" 		: 18350,
@@ -154,9 +130,7 @@
 		"bib" 			: 717,
 		"position" 		: 872,
 		"participants" 	: 1609
-	},
-
-	{
+	}, {
 		"title" 		: "II Duatlon Trofeo Triton",
 		"location"		: "Zaragoza",
 		"distance" 		: false,
@@ -166,9 +140,7 @@
 		"bib" 			: false,
 		"position" 		: false,
 		"participants" 	: false
-	},
-
-	{
+	}, {
 		"title" 		: "XII Media Maraton Ciudad de Zaragoza",
 		"location"		: "Zaragoza",
 		"distance" 		: 21097,
@@ -178,9 +150,7 @@
 		"bib" 			: 838,
 		"position" 		: 700,
 		"participants" 	: 1614
-	},
-
-	{
+	}, {
 		"title" 		: "IV 10K Zaragoza 2009",
 		"location"		: "Zaragoza",
 		"distance" 		: 10000,
@@ -190,9 +160,7 @@
 		"bib" 			: 853,
 		"position" 		: 436,
 		"participants" 	: 1679
-	},
-
-	{
+	}, {
 		"title" 		: "Carrera Popular Pilar 2009",
 		"location"		: "Zaragoza",
 		"distance" 		: 5000,
@@ -202,9 +170,7 @@
 		"bib" 			: 232,
 		"position" 		: 241,
 		"participants" 	: 376
-	},
-
-	{
+	}, {
 		"title" 		: "I Carrera Popular Pinares Venecia",
 		"location"		: "Zaragoza",
 		"distance" 		: 5000,
@@ -214,9 +180,7 @@
 		"bib" 			: 147,
 		"position" 		: 85,
 		"participants" 	: 177
-	},
-
-	{
+	}, {
 		"title" 		: "V 10K Zaragoza 2010",
 		"location"		: "Zaragoza",
 		"distance" 		: 10000,
@@ -226,9 +190,7 @@
 		"bib" 			: 1428,
 		"position" 		: 1059,
 		"participants" 	: 2010
-	},
-
-	{
+	}, {
 		"title" 		: "Carrera Popular Pilar 2010",
 		"location"		: "Zaragoza",
 		"distance" 		: 5000,
@@ -238,9 +200,7 @@
 		"bib" 			: 342,
 		"position" 		: 235,
 		"participants" 	: 349
-	},
-
-	{
+	}, {
 		"title" 		: "I Duatlon Solidario Utebo",
 		"location"		: "Utebo, Zaragoza",
 		"distance" 		: false,
@@ -250,9 +210,7 @@
 		"bib" 			: 175,
 		"position" 		: 212,
 		"participants" 	: 248
-	},
-
-	{
+	}, {
 		"title" 		: "III Carrera Solidaria Agua para Africa",
 		"location"		: "Zaragoza",
 		"distance" 		: 5300,
@@ -262,9 +220,7 @@
 		"bib" 			: 865,
 		"position" 		: false,
 		"participants" 	: false
-	},
-
-	{
+	}, {
 		"title" 		: "Campeonato de Aragón 10000 en pista (10K)",
 		"location"		: "Zaragoza",
 		"distance" 		: 10000,
@@ -274,9 +230,7 @@
 		"bib" 			: 52,
 		"position" 		: false,
 		"participants" 	: false
-	},
-
-	{
+	}, {
 		"title" 		: "V Carrera del Ebro 2011",
 		"location"		: "Zaragoza",
 		"distance" 		: 19000,
@@ -286,9 +240,7 @@
 		"bib" 			: 1060,
 		"position" 		: 989,
 		"participants" 	: 1481
-	},
-
-	{
+	}, {
 		"title" 		: "I Carrera 10k Proniño Zaragoza",
 		"location"		: "Zaragoza",
 		"distance" 		: 10000,
@@ -298,9 +250,7 @@
 		"bib" 			: 896,
 		"position" 		: 174,
 		"participants" 	: 837
-	},
-
-	{
+	}, {
 		"title" 		: "I Carrera Popular Parque José Antonio Labordeta",
 		"location"		: "Zaragoza",
 		"distance" 		: 5800,
@@ -310,9 +260,7 @@
 		"bib" 			: 147,
 		"position" 		: 61,
 		"participants" 	: 180
-	},
-
-	{
+	}, {
 		"title" 		: "XIV Media Maraton Ciudad de Zaragoza",
 		"location"		: "Zaragoza",
 		"distance" 		: 21097,
@@ -322,9 +270,7 @@
 		"bib" 			: 829,
 		"position" 		: 649,
 		"participants" 	: 2007
-	},
-
-	{
+	}, {
 		"title" 		: "VII Carrera sin humo",
 		"location"		: "Zaragoza",
 		"distance" 		: 5000,
@@ -334,9 +280,7 @@
 		"bib" 			: 184,
 		"position" 		: 156,
 		"participants" 	: 739
-	},
-
-	{
+	}, {
 		"title" 		: "VI 10K Zaragoza Sport Zone",
 		"location"		: "Zaragoza",
 		"distance" 		: 10000,
@@ -346,9 +290,7 @@
 		"bib" 			: 550,
 		"position" 		: 372,
 		"participants" 	: 2396
-	},
-
-	{
+	}, {
 		"title" 		: "III Carrera Popular Pinares de Puerto Venecia",
 		"location"		: "Zaragoza",
 		"distance" 		: 11000,
@@ -358,9 +300,7 @@
 		"bib" 			: 778,
 		"position" 		: 320,
 		"participants" 	: 627
-	},
-
-	{
+	}, {
 		"title" 		: "III Media Maraton Ciudad de Huesca",
 		"location"		: "Huesca",
 		"distance" 		: 21097,
@@ -370,9 +310,7 @@
 		"bib" 			: 461,
 		"position" 		: 491,
 		"participants" 	: 558
-	},
-
-	{
+	}, {
 		"title" 		: "I Carrera Popular 12K El Rincón",
 		"location"		: "Zaragoza",
 		"distance" 		: 12000,
@@ -382,9 +320,7 @@
 		"bib" 			: 197,
 		"position" 		: 277,
 		"participants" 	: 691
-	},
-
-	{
+	}, {
 		"title" 		: "XV Media Maraton Ciudad de Zaragoza",
 		"location"		: "Zaragoza",
 		"distance" 		: 21097,
@@ -394,9 +330,7 @@
 		"bib" 			: 978,
 		"position" 		: 1232,
 		"participants" 	: 2281
-	},
-
-	{
+	}, {
 		"title" 		: "VII 10K Zaragoza Sport Zone",
 		"location"		: "Zaragoza",
 		"distance" 		: 10000,
@@ -406,9 +340,7 @@
 		"bib" 			: 3011,
 		"position" 		: 636,
 		"participants" 	: 2666
-	},
-
-	{
+	}, {
 		"title" 		: "VI Maraton Internacional Zaragoza. Gran Premio Ibercaja.",
 		"location"		: "Zaragoza",
 		"distance" 		: 42195,
@@ -418,9 +350,7 @@
 		"bib" 			: 332,
 		"position" 		: 339,
 		"participants" 	: 771
-	},
-
-	{
+	}, {
 		"title" 		: "Mitja Del Vendrell",
 		"location"		: "El Vendrell, Tarragona",
 		"distance" 		: 21097,
@@ -430,9 +360,7 @@
 		"bib" 			: 551,
 		"position" 		: 315,
 		"participants" 	: 435
-	},
-
-	{
+	}, {
 		"title" 		: "10K Sevilla 2013",
 		"location"		: "Sevilla",
 		"distance" 		: 10000,
@@ -442,9 +370,7 @@
 		"bib" 			: 267,
 		"position" 		: 514,
 		"participants" 	: 1245
-	},
-
-	{
+	}, {
 		"title" 		: "STM Group PLC. Wobbles Charity 10k Fun Run 2013",
 		"location"		: "Gibraltar (GIB)",
 		"distance" 		: 10000,
@@ -454,9 +380,7 @@
 		"bib" 			: false,
 		"position" 		: false,
 		"participants" 	: false
-	},
-
-	{
+	}, {
 		"title" 		: "Media Maraton Metropolitana Toruños Algaida",
 		"location"		: "Puerto de Sta. Maria, Cadiz",
 		"distance" 		: 21097,
@@ -466,9 +390,7 @@
 		"bib" 			: 457,
 		"position" 		: 341,
 		"participants" 	: 420
-	},
-
-	{
+	}, {
 		"title" 		: "Gibraltar 10km Road Race '13",
 		"location"		: "Gibraltar (GIB)",
 		"distance" 		: 10000,
@@ -478,9 +400,7 @@
 		"bib" 			: 295,
 		"position" 		: 21,
 		"participants" 	: 54
-	},
-
-	{
+	}, {
 		"title" 		: "49va. Behobia - San Sebastian",
 		"location"		: "Irun, Gipuzkoa",
 		"distance" 		: 20000,
@@ -490,9 +410,7 @@
 		"bib" 			: 21014,
 		"position" 		: 8994,
 		"participants" 	: 23728
-	},
-
-	{
+	}, {
 		"title" 		: "V Media Maratón Ciudad de Huesca",
 		"location"		: "Huesca",
 		"distance" 		: 21097,
@@ -502,9 +420,7 @@
 		"bib" 			: 1113,
 		"position" 		: 244,
 		"participants" 	: 431
-	},
-
-	{
+	}, {
 		"title" 		: "Sanitas Marca Running Series 10K",
 		"location"		: "Zaragoza",
 		"distance" 		: 10000,
@@ -514,9 +430,7 @@
 		"bib" 			: 292,
 		"position" 		: 239,
 		"participants" 	: 947
-	},
-
-	{
+	}, {
 		"title" 		: "VIII Carrera del Ebro - Ultra Trail 30K",
 		"location"		: "Zaragoza",
 		"distance" 		: 30000,
@@ -526,9 +440,7 @@
 		"bib" 			: 546,
 		"position" 		: 371,
 		"participants" 	: 766
-	},
-
-	{
+	}, {
 		"title" 		: "IX Mitja Marato de Sabadell 2014",
 		"location"		: "Sabadell, Barcelona",
 		"distance" 		: 21097,
@@ -538,9 +450,7 @@
 		"bib" 			: 623,
 		"position" 		: 393,
 		"participants" 	: 657
-	},
-
-	{
+	}, {
 		"title" 		: "2014 Bank of America Chicago Marathon",
 		"location"		: "Chicago, IL (USA)",
 		"distance" 		: 42195,
@@ -550,9 +460,7 @@
 		"bib" 			: 12086,
 		"position" 		: 6450,
 		"participants" 	: 40568
-	},
-
-	{
+	}, {
 		"title" 		: "2XU Santa Monica RunFest 10K",
 		"location"		: "Santa Monica, CA (USA)",
 		"distance" 		: 10000,
@@ -562,9 +470,7 @@
 		"bib" 			: 3658,
 		"position" 		: 61,
 		"participants" 	: 546
-	},
-
-	{
+	}, {
 		"title" 		: "XXX Media Maratón Fuencarral - El Pardo",
 		"location"		: "Madrid",
 		"distance" 		: 21097,
@@ -574,9 +480,7 @@
 		"bib" 			: 2694,
 		"position" 		: 1010,
 		"participants" 	: 2330
-	},
-
-	{
+	}, {
 		"title" 		: "1/2 BCN Mitja Barcelona 2015",
 		"location"		: "Barcelona",
 		"distance" 		: 21097,
@@ -586,9 +490,7 @@
 		"bib" 			: 15001,
 		"position" 		: 4011,
 		"participants" 	: 12488
-	},
-
-	{
+	}, {
 		"title" 		: "IX Carrera del Ebro - Ultra Trail 30K",
 		"location"		: "Zaragoza",
 		"distance" 		: 30000,
@@ -598,9 +500,7 @@
 		"bib" 			: 674,
 		"position" 		: 502,
 		"participants" 	: 894
-	},
-
-	{
+	}, {
 		"title" 		: "XIII Maratón Vitoria-Gasteiz Martín Fiz",
 		"location"		: "Vitoria, Alava",
 		"distance" 		: 42195,
@@ -610,9 +510,7 @@
 		"bib" 			: 939,
 		"position" 		: 494,
 		"participants" 	: 750
-	},
-
-	{
+	}, {
 		"title" 		: "42nd BMW Berlin Marathon. 2015",
 		"location"		: "Berlin (GER)",
 		"distance" 		: 42195,
@@ -622,9 +520,7 @@
 		"bib" 			: 24998,
 		"position" 		: 17604,
 		"participants" 	: 36821
-	},
-
-	{
+	}, {
 		"title" 		: "Medio Maratón Valencia Trinidad Alonso 2015",
 		"location"		: "Valencia",
 		"distance" 		: 21097,
@@ -634,9 +530,7 @@
 		"bib" 			: 11036,
 		"position" 		: 7772,
 		"participants" 	: 10856
-	},
-
-	{
+	}, {
 		"title" 		: "XXXIX Media Maratón Popular de Moratalaz",
 		"location"		: "Madrid",
 		"distance" 		: 21097,
@@ -646,9 +540,7 @@
 		"bib" 			: 691,
 		"position" 		: 455,
 		"participants" 	: 808
-	},
-
-	{
+	}, {
 		"title" 		: "VII Media Maratón de Huesca 2015",
 		"location"		: "Huesca",
 		"distance" 		: 21097,
@@ -658,9 +550,7 @@
 		"bib" 			: 140,
 		"position" 		: 287,
 		"participants" 	: 425
-	},
-
-	{
+	}, {
 		"title" 		: "IV Sanitas MARCA 10k Running Series Zaragoza",
 		"location"		: "Zaragoza",
 		"distance" 		: 10000,
@@ -670,9 +560,7 @@
 		"bib" 			: 1109,
 		"position" 		: 229,
 		"participants" 	: 613
-	},
-
-	{
+	}, {
 		"title" 		: "Mitja Marató Ciutat de Tarragona 2015",
 		"location"		: "Tarragona",
 		"distance" 		: 21097,
@@ -682,9 +570,7 @@
 		"bib" 			: 1431,
 		"position" 		: 819,
 		"participants" 	: 1547
-	},
-
-	{
+	}, {
 		"title" 		: "XII Carrera sin Humo 2016",
 		"location"		: "Zaragoza",
 		"distance" 		: 5000,
@@ -694,9 +580,7 @@
 		"bib" 			: 778,
 		"position" 		: 106,
 		"participants" 	: 707
-	},
-
-	{
+	}, {
 		"title" 		: "XI 10K Zaragoza CaixaBank 2016",
 		"location"		: "Zaragoza",
 		"distance" 		: 10000,
@@ -706,9 +590,7 @@
 		"bib" 			: 1169,
 		"position" 		: 587,
 		"participants" 	: 4468
-	},
-
-	{
+	}, {
 		"title" 		: "XX Media Maratón Ibercaja Ciudad de Zaragoza 2017",
 		"location"		: "Zaragoza",
 		"distance" 		: 21097,
@@ -718,9 +600,7 @@
 		"bib" 			: 1687,
 		"position" 		: 1329,
 		"participants" 	: 3012
-	},
-
-	{
+	}, {
 		"title" 		: "XII CaixaBank 10K Zaragoza 2017",
 		"location"		: "Zaragoza",
 		"distance" 		: 10000,
@@ -730,9 +610,7 @@
 		"bib" 			: 4621,
 		"position" 		: 1069,
 		"participants" 	: 4208
-	},
-
-	{
+	}, {
 		"title" 		: "39è Cros Popular 10k de Sants",
 		"location"		: "Barcelona",
 		"distance" 		: 10000,
@@ -742,9 +620,7 @@
 		"bib" 			: 1676,
 		"position" 		: 811,
 		"participants" 	: 1453
-	},
-
-	{
+	}, {
 		"title" 		: "Cursa Solidària Running 1900 10K",
 		"location"		: "Cornellá, Barcelona",
 		"distance" 		: 10000,
@@ -754,9 +630,7 @@
 		"bib" 			: 703,
 		"position" 		: 241,
 		"participants" 	: 542
-	},
-
-	{
+	}, {
 		"title" 		: "94a Jean Bouin Open 10K",
 		"location"		: "Barcelona",
 		"distance" 		: 10000,
@@ -766,9 +640,7 @@
 		"bib" 			: 9629,
 		"position" 		: 2868,
 		"participants" 	: 6606
-	},
-
-	{
+	}, {
 		"title" 		: "40 Cursa Moritz Sant Antoni 10K",
 		"location"		: "Barcelona",
 		"distance" 		: 10000,
@@ -778,9 +650,7 @@
 		"bib" 			: 4322,
 		"position" 		: 3208,
 		"participants" 	: 3760
-	},
-
-	{
+	}, {
 		"title" 		: "9a Cursa Nocturna 10k Ciutat de L'Hospitalet",
 		"location" 		: "Hospitalet, Barcelona",
 		"distance" 		: 10000,
@@ -790,9 +660,7 @@
 		"bib" 			: 2902,
 		"position" 		: 1128,
 		"participants" 	: 1712
-	},
-
-	{
+	}, {
 		"title" 		: "Cursa Bombers Barcelona 10K",
 		"location" 		: "Barcelona",
 		"distance" 		: 10000,
@@ -802,9 +670,7 @@
 		"bib" 			: 13323,
 		"position" 		: 4172,
 		"participants" 	: 11529
-	},
-
-	{
+	}, {
 		"title" 		: "Cursa Delta Prat 10K",
 		"location" 		: "El Prat, Barcelona",
 		"distance" 		: 10000,
@@ -814,9 +680,7 @@
 		"bib" 			: 992,
 		"position" 		: 348,
 		"participants" 	: 600
-	},
-
-	{
+	}, {
 		"title" 		: "XVI Cursa de Can Mercader 10K",
 		"location" 		: "Cornellá, Barcelona",
 		"distance" 		: 10000,
@@ -826,9 +690,7 @@
 		"bib" 			: 441,
 		"position" 		: 193,
 		"participants" 	: 329
-	},
-
-	{
+	}, {
 		"title" 		: "6ª Cursa Guàrdia Urbana 10k Diagonal 2018",
 		"location" 		: "Barcelona",
 		"distance" 		: 10000,
@@ -838,9 +700,7 @@
 		"bib" 			: 9637,
 		"position" 		: 1231,
 		"participants" 	: 5819
-	},
-
-	{
+	}, {
 		"title" 		: "Cursa Barça 10K 2018",
 		"location" 		: "Barcelona",
 		"distance" 		: 10000,
@@ -850,9 +710,7 @@
 		"bib" 			: 3409,
 		"position" 		: 942,
 		"participants" 	: 2498
-	},
-
-	{
+	}, {
 		"title" 		: "VIII Carrera Solidaria Entreculturas Málaga 10K",
 		"location" 		: "Málaga",
 		"distance" 		: 10000,
@@ -862,9 +720,7 @@
 		"bib" 			: 462,
 		"position" 		: 213,
 		"participants" 	: 443
-	},
-
-	{
+	}, {
 		"title" 		: "41a Cursa El Corte Inglés",
 		"location" 		: "Barcelona",
 		"distance" 		: 10639,
@@ -874,9 +730,7 @@
 		"bib" 			: 48199,
 		"position" 		: false,
 		"participants" 	: false
-	},
-
-	{
+	}, {
 		"title" 		: "10a Cursa Nocturna 10k Ciutat de L'Hospitalet",
 		"location" 		: "Hospitalet, Barcelona",
 		"distance" 		: 10000,
@@ -886,9 +740,7 @@
 		"bib" 			: 2472,
 		"position" 		: 1234,
 		"participants" 	: 2120
-	},
-
-	{
+	}, {
 		"title" 		: "20a Cursa Delta Prat 10K",
 		"location" 		: "El Prat, Barcelona",
 		"distance" 		: 10000,
@@ -898,9 +750,7 @@
 		"bib" 			: 904,
 		"position" 		: 275,
 		"participants" 	: 486
-	},
-
-	{
+	}, {
 		"title" 		: "7ª Cursa DiR 10k Guàrdia Urbana Diagonal 2019",
 		"location" 		: "Barcelona",
 		"distance" 		: 10000,
@@ -910,9 +760,7 @@
 		"bib" 			: 7936,
 		"position" 		: 1155,
 		"participants" 	: 5157
-	},
-
-	{
+	}, {
 		"title" 		: "33 Cursa Popular de Nou Barris 10K",
 		"location" 		: "Barcelona",
 		"distance" 		: 10000,
@@ -922,9 +770,7 @@
 		"bib" 			: 1261,
 		"position" 		: 375,
 		"participants" 	: 922
-	},
-
-	{
+	}, {
 		"title" 		: "XII Cursa La Maquinista 10K",
 		"location" 		: "Barcelona",
 		"distance" 		: 10000,
@@ -934,9 +780,7 @@
 		"bib" 			: 1294,
 		"position" 		: 497,
 		"participants" 	: 906
-	},
-
-	{
+	}, {
 		"title" 		: "5a Cursa Besòs Maresme 10K",
 		"location" 		: "Barcelona",
 		"distance" 		: 10000,
@@ -946,9 +790,7 @@
 		"bib" 			: 289,
 		"position" 		: 174,
 		"participants" 	: 254
-	},
-
-	{
+	}, {
 		"title" 		: "Cursa Barça 10K 2019",
 		"location" 		: "Barcelona",
 		"distance" 		: 10000,
@@ -958,9 +800,7 @@
 		"bib" 			: 3650,
 		"position" 		: 1021,
 		"participants" 	: 2502
-	},
-
-	{
+	}, {
 		"title" 		: "San Silvestre Ciudad de Oviedo 2022",
 		"location" 		: "Oviedo, Asturias",
 		"distance" 		: 5700,
@@ -970,9 +810,7 @@
 		"bib" 			: 3782,
 		"position" 		: 753,
 		"participants" 	: 3313
-	},
-
-	{
+	}, {
 		"title" 		: "XXXIII Media Maratón de Torremolinos",
 		"location" 		: "Torremolinos, Málaga",
 		"distance" 		: 21097,
@@ -982,9 +820,7 @@
 		"bib" 			: 940,
 		"position" 		: 690,
 		"participants" 	: 1204
-	},
-
-	{
+	}, {
 		"title" 		: "XXXIV Media Maratón de Torremolinos",
 		"location" 		: "Torremolinos, Málaga",
 		"distance" 		: 21097,
@@ -994,9 +830,7 @@
 		"bib" 			: 1052,
 		"position" 		: 918,
 		"participants" 	: 1355
-	},
-
-	{
+	}, {
 		"title" 		: "Los 10k del Grupo",
 		"location" 		: "Gijón, Asturias",
 		"distance" 		: 10000,
@@ -1006,9 +840,7 @@
 		"bib" 			: 879,
 		"position" 		: 610,
 		"participants" 	: 910
-	},
-
-	{
+	}, {
 		"title" 		: "Màgic BDN Running 10K",
 		"location" 		: "Badalona, Barcelona",
 		"distance" 		: 10000,
@@ -1018,9 +850,7 @@
 		"bib" 			: 2409,
 		"position" 		: 1117,
 		"participants" 	: 1470
-	},
-
-	{
+	}, {
 		"title" 		: "XXXV Media Maratón de Torremolinos",
 		"location" 		: "Torremolinos, Málaga",
 		"distance" 		: 21097,
@@ -1030,9 +860,7 @@
 		"bib" 			: 1616,
 		"position" 		: 1137,
 		"participants" 	: 1843
-	},
-
-	{
+	}, {
 		"title" 		: "XIV Carrera Nocturna Entreculturas León 10K",
 		"location" 		: "León",
 		"distance" 		: 9600,
@@ -1042,9 +870,7 @@
 		"bib" 			: 71,
 		"position" 		: 56,
 		"participants" 	: 87
-	},
-
-	{
+	}, {
 		"title" 		: "X Los 10k del Grupo",
 		"location" 		: "Gijón, Asturias",
 		"distance" 		: 10000,
@@ -1054,9 +880,7 @@
 		"bib" 			: 1148,
 		"position" 		: 748,
 		"participants" 	: 1269
-	},
-
-	{
+	}, {
 		"title" 		: "XV Media Maratón de León",
 		"location" 		: "León",
 		"distance" 		: 21097,
@@ -1066,9 +890,7 @@
 		"bib" 			: 1147,
 		"position" 		: 910,
 		"participants" 	: 1404
-	},
-
-	{
+	}, {
 		"title" 		: "V Memorial Eloy Palacio Alonso",
 		"location" 		: "Oviedo, Asturias",
 		"distance" 		: 5300,
@@ -1078,5 +900,15 @@
 		"bib" 			: 408,
 		"position" 		: 88,
 		"participants" 	: 196
+	}, {
+		"title" 		: "VI Carrera Solidaria por la Diversidad Funcional",
+		"location" 		: "Oviedo, Asturias",
+		"distance" 		: 5000,
+		"timestamp" 	: "2025-05-11 12:00:00",
+		"time_chip" 	: false,
+		"time_gun" 		: "00:25:45",
+		"bib" 			: 652,
+		"position" 		: false,
+		"participants" 	: false
 	}
 ]
