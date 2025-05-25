@@ -910,5 +910,15 @@
 		"bib" 			: 652,
 		"position" 		: false,
 		"participants" 	: false
+	}, {
+		"title" 		: "V Ruta por la Seguridad",
+		"location" 		: "Oviedo, Asturias",
+		"distance" 		: 4000,
+		"timestamp" 	: "2025-05-25 11:00:00",
+		"time_chip" 	: "00:19:38",
+		"time_gun" 		: "00:19:45",
+		"bib" 			: 255,
+		"position" 		: 53,
+		"participants" 	: 187
 	}
 ]
