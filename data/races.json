@@ -920,5 +920,15 @@
 		"bib" 			: 255,
 		"position" 		: 53,
 		"participants" 	: 187
+	}, {
+		"title" 		: "37ª Media Maratón EDP Ruta de la Reconquista",
+		"location" 		: "Cangas de Onís, Asturias",
+		"distance" 		: 21097,
+		"timestamp" 	: "2025-05-31 17:30:00",
+		"time_chip" 	: "01:56:02",
+		"time_gun" 		: "01:57:01",
+		"bib" 			: 787,
+		"position" 		: 828,
+		"participants" 	: 1053
 	}
 ]
