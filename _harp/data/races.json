@@ -930,5 +930,15 @@
 		"bib" 			: 787,
 		"position" 		: 828,
 		"participants" 	: 1053
+	}, {
+		"title" 		: "14ª MBA Media Maratón de Gijón",
+		"location" 		: "Gijón, Asturias",
+		"distance" 		: 21097,
+		"timestamp" 	: "2025-10-11 17:30:00",
+		"time_chip" 	: "02:02:05",
+		"time_gun" 		: "02:03:20",
+		"bib" 			: 1269,
+		"position" 		: 1686,
+		"participants" 	: 1982
 	}
 ]
