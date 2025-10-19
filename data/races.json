@@ -940,5 +940,15 @@
 		"bib" 			: 1269,
 		"position" 		: 1686,
 		"participants" 	: 1982
+	}, {
+		"title" 		: "II Trail del Prerrománico. Adventure 12K",
+		"location" 		: "Oviedo, Asturias",
+		"distance" 		: 12000,
+		"timestamp" 	: "2025-10-19 10:30:00",
+		"time_chip" 	: "01:58:09",
+		"time_gun" 		: "01:58:44",
+		"bib" 			: 668,
+		"position" 		: 343,
+		"participants" 	: 406
 	}
 ]
