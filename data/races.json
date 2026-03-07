@@ -970,5 +970,15 @@
 		"bib" 			: 223,
 		"position" 		: 285,
 		"participants" 	: 307
+	}, {
+		"title" 		: "Los 10k del Grupo 2026",
+		"location" 		: "Gijón, Asturias",
+		"distance" 		: 10000,
+		"timestamp" 	: "2026-03-07 17:30:00",
+		"time_chip" 	: "00:50:12",
+		"time_gun" 		: "00:50:53",
+		"bib" 			: 1571,
+		"position" 		: 947,
+		"participants" 	: 1576
 	}
 ]
