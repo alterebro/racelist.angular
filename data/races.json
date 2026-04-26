@@ -990,5 +990,15 @@
 		"bib" 			: 2614,
 		"position" 		: 1742,
 		"participants" 	: 2450
+	}, {
+		"title" 		: "46 Cross Popular Villa De Gijon",
+		"location" 		: "Gijón, Asturias",
+		"distance" 		: 12000,
+		"timestamp" 	: "2026-04-26 10:00:00",
+		"time_chip" 	: "01:01:04",
+		"time_gun" 		: "01:02:06",
+		"bib" 			: 966,
+		"position" 		: 612,
+		"participants" 	: 1031
 	}
 ]
