@@ -1000,5 +1000,15 @@
 		"bib" 			: 966,
 		"position" 		: 612,
 		"participants" 	: 1031
+	}, {
+		"title" 		: "VI Media Maratón de Carabanchel",
+		"location" 		: "Madrid",
+		"distance" 		: 21097,
+		"timestamp" 	: "2026-05-24 08:30:00",
+		"time_chip" 	: "01:58:29",
+		"time_gun" 		: "02:05:25",
+		"bib" 			: 2761,
+		"position" 		: 1455,
+		"participants" 	: 1992
 	}
 ]
