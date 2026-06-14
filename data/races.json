@@ -1020,5 +1020,15 @@
 		"bib" 			: 929,
 		"position" 		: 834,
 		"participants" 	: 1258
+	}, {
+		"title" 		: "10k Autismo Oviedo 2026 - Memorial Iván Cervero",
+		"location" 		: "Oviedo, Asturias",
+		"distance" 		: 9700,
+		"timestamp" 	: "2026-06-14 10:00:00",
+		"time_chip" 	: "00:48:30",
+		"time_gun" 		: "00:49:05",
+		"bib" 			: 681,
+		"position" 		: 257,
+		"participants" 	: 558
 	}
 ]
