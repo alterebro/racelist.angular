@@ -55,11 +55,9 @@ var ngApp = angular.module('ngApp', ['ngRoute']);
 		function( $routeProvider ) {
 			$routeProvider
 				.when('/races', {
-					controller: 'mainController',
 					template: ' '
 				})
 				.when('/race/:slug', {
-					controller: 'mainController',
 					template: ' '
 				})
 				.otherwise({redirectTo: '/races'});
